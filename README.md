@@ -1,27 +1,28 @@
-# FrontEnd
+Project Overview
+MissionHub is a web-based platform designed to manage missions, skills, and user applications with secure role-based authorization. Admins can control users, missions, themes, and skills, while users can explore missions, apply, and track their progress via a personal profile page.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+⚙️ Features
+🔑 Role-Based Authorization (Admin & User)
 
-## Development server
+👤 User CRUD (Create, Read, Update, Delete)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🎯 Mission CRUD (Create, Read, Update, Delete)
 
-## Code scaffolding
+🎨 Theme CRUD
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🛠️ Mission Skill CRUD
 
-## Build
+📋 Mission Listing (User Side)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+📝 Mission Apply & Application CRUD
 
-## Running unit tests
+🙍‍♂️ User Profile Management ("My Profile" page)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+🚀 Deployment Ready
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+🛠️ Tech Stack
+Category	Technology
+Frontend	HTML, CSS, JavaScript, Angular/React (Specify if used)
+Backend	Node.js / Java / .NET (Specify your choice)
+Database	MongoDB / PostgreSQL / MySQL (Specify your choice)
+Authentication	JWT / OAuth (Specify if used)
