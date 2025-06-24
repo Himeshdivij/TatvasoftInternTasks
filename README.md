@@ -22,7 +22,7 @@ MissionHub is a web-based platform designed to manage missions, skills, and user
 
 🛠️ Tech Stack
 Category	Technology
-Frontend	HTML, CSS, JavaScript, Angular/React (Specify if used)
-Backend	Node.js / Java / .NET (Specify your choice)
-Database	MongoDB / PostgreSQL / MySQL (Specify your choice)
-Authentication	JWT / OAuth (Specify if used)
+Frontend  :	HTML, CSS, JavaScript, Angular
+Backend  :	.NET 
+Database  : PostgreSQL
+Authentication  :	JWT
